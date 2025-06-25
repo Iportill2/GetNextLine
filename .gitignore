@@ -1,0 +1,29 @@
+# Archivos objeto y ejecutables
+*.o
+*.out
+a.out
+test_gnl
+test_get_next_line
+
+# Archivos temporales de prueba
+test_*.txt
+
+# Archivos de respaldo del editor
+*~
+*.swp
+*.swo
+.\#*
+\#*\#
+
+# Archivos de configuración IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de log y debug
+*.log
+*.dSYM/
